@@ -1,9 +1,9 @@
 # Jake Pasternak
 
-seeking
-change
-looking forward to
+- seeking
+- change
+- looking forward to
 
 Welcome to my GitHub Page!
 
-[Password Generator](/password-generator)
+[Jake Pasternak's Portfolio](/portfolio)
